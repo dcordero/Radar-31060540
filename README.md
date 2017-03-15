@@ -15,7 +15,7 @@ This project zaps among 2 different live streams when pressing left or right.
 
 
 # Expected
-The progress indicator points directly to the live position without any jump of flash on the view
+The progress indicator points directly to the live position without any jump or flash on the view
 
 # Version:
 tvOS 10.2
