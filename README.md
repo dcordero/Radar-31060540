@@ -4,6 +4,10 @@ AVPlayerViewController, weird progress behaviour when zapping among live streams
 
 · Open radar: https://openradar.appspot.com/31060540
 
+# Update
+
+This issue was resolved in tvOS 11 beta 2 (15J5310e)
+
 # Description
 When changing among different live stream assets the progress bar and the indicator presented by AVPlayerViewController jump and flash from the beginning to the end of the event window.
 
